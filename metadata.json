@@ -1,0 +1,6 @@
+{
+  "name": "ASP Sound & Vision",
+  "description": "A modern music streaming application with a cinematic focus, immersive audio visualizers, and seamless playback control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
